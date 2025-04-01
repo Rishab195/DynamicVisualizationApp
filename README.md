@@ -36,10 +36,12 @@ This interactive **Shiny application** enables users to upload datasets (CSV/Exc
 ## 🖥️ Screenshots  
 
 ### 📌 Dashboard Overview  
-![Dashboard Overview](screenshots/screenshot1.png)  
+![Dashboard Overview](https://github.com/Rishab195/DynamicVisualizationApp/blob/main/appimg1.jpg)  
+
 
 ### 📌 Interactive Data Visualization  
-![Data Visualization](screenshots/screenshot2.png)  
+![Dashboard Overview](https://github.com/Rishab195/DynamicVisualizationApp/blob/main/Appimg2.jpg)  
+
 
 ---
 
