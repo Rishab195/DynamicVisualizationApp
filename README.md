@@ -4,6 +4,8 @@
 This interactive **Shiny application** enables users to upload datasets (CSV/Excel) and perform **data exploration & visualization** efficiently. With an intuitive interface, it simplifies **data analysis**, providing quick insights and customizable visualizations.  
 
 ---
+🔗 Live Demo
+👉 Check out the live version here: https://rishabh195.shinyapps.io/DynamicVisualizationApp/
 
 ## 🔑 Key Features  
 
